@@ -1,4 +1,4 @@
-package Lesson.test.comparable;
+package Lessons.test.comparable;
 
 import java.util.Arrays;
 

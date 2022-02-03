@@ -1,4 +1,4 @@
-package Lesson.test.HouseAtTree;
+package Lessons.test.HouseAtTree;
 
 public class Bird extends Animal implements Flyable{
 }

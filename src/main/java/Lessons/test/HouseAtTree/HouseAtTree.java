@@ -1,4 +1,4 @@
-package Lesson.test.HouseAtTree;
+package Lessons.test.HouseAtTree;
 
 public class HouseAtTree<T extends Animal & Flyable> {
     private T master;

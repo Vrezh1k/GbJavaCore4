@@ -1,4 +1,4 @@
-package Lesson.test;
+package Lessons.test;
 
 public class BoxWithTwoGenerics <T, S> {
     private T obj1;

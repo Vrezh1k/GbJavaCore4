@@ -1,4 +1,4 @@
-package Lesson.test;
+package Lessons.test;
 
 public class Box {
     private Object object;
